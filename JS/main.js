@@ -1,5 +1,3 @@
-document.addEventListener("DOMContentLoaded", function(){
-    
 
     function numCuadritos (){
         let pregunta
@@ -88,7 +86,7 @@ document.addEventListener("DOMContentLoaded", function(){
     limpiar.addEventListener("click", ()=> {
         return limpiarCuadritos()
     })
-})
+
 
 
 
